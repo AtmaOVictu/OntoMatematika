@@ -28,7 +28,7 @@ Vez na ONTOMATEMATIKO: RESNICA ≠ DEJSTVO ⊢ 1731 — Tarski je zunanja priča
 Vir: https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem · izvirnik ⚠: Tarski 1933.
 
 ### 4. Löwenheim–Skolem — meja pomena
-Prvi red logike ne more nadzorovati velikosti svojih modelov: vsakalah števna teorija prvega reda z neskončnim modelom ima števen model (navzdol) ∧ vse kardinalnosti (navzgor, pod GCH). Skolemov paradoks: aksiomi o neštevnih množicah imajo števne modele.
+Prvi red logike ne more nadzorovati velikosti svojih modelov: vsaka števna teorija prvega reda z neskončnim modelom ima števen model (navzdol) ∧ vse kardinalnosti (navzgor, pod GCH). Skolemov paradoks: aksiomi o neštevnih množicah imajo števne modele.
 Vez na ONTOMATEMATIKO: aksiom ne določa sveta, določa družino svetov — formalizacija, ki obljublja en svet, laže.
 Vir: https://en.wikipedia.org/wiki/L%C3%B6wenheim%E2%80%93Skolem_theorem · izvirnik ⚠: Löwenheim 1915, Skolem 1920.
 
