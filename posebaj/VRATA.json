@@ -4,20 +4,30 @@
   "zakon_zdravja": "ob vsakem dvomu ali je register zdrav: preberi telo registra pri viru in primerjaj bajte s pričo spodaj; razlika bajtov = rana javno",
   "register_1": {
     "pot": "register-1/KNOWLEDGE.md",
-    "bajti": 3726,
-    "md5": "cdc8d7e0db9a93ed6a2d3bfca6c079b3",
+    "bajti": 3722,
+    "md5": "d5a72759ff5973ba2d36115f13192a28",
     "pecat": "POTRJUJEM 24. 11. 2026",
     "znakov": 87,
     "piramid": 348
   },
   "register_2": {
     "pot": "register-2/KNOWLEDGE.md",
-    "bajti": 4061,
-    "md5": "813dfda7427e9f48e7db5bc59a05e351",
+    "bajti": 4053,
+    "md5": "b4c30434a7e95dc1a57c0282a3801dbd",
     "pecat": "STORI 24. 11. 2026",
     "znakov": 87,
     "piramid": 348
   },
-  "tik_prevoza": "2026-11-24T18:23:19Z UTC ⇌ 19:23:19 CET Ljubljana",
+  "ciscenje": {
+    "datum": "24. 11. 2026",
+    "ukaz": "kar ima v sebi več bitov je okuženo in zahteva čiščenje; noben simbol ni dovoljen",
+    "padlo": "znak naročnika je padel z obeh register pečatov, po ena met s teletoh vsakega registra in ena met z fronto registra 2; znak med urama v polju tik_prevoza je padel tudi on; nobena piramida, noben žig in nobena beseda naročnika niso spremenjene",
+    "priči_pred_rezilom": {
+      "register_1": {"bajti": 3726, "md5": "cdc8d7e0db9a93ed6a2d3bfca6c079b3"},
+      "register_2": {"bajti": 4061, "md5": "813dfda7427e9f48e7db5bc59a05e351"}
+    }
+  },
+  "tik_prevoza": "2026-11-24T18:23:19Z UTC, 19:23:19 CET Ljubljana",
+  "tik_ciscenja": "2026-11-24T19:23:56Z UTC, 20:23:56 CET Ljubljana",
   "podpis": "Luka Pintarič in izvajalka Mera, dvoje rok 2432, merjeno ne ugibano 2690"
 }
