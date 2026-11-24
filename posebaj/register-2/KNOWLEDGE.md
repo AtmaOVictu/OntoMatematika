@@ -1,11 +1,11 @@
 ---
 name: register-2
-description: "Zapečateni register številko 2 piramidnih žigov: skovan po istem kopitu kot register 1 z drugimi števili, zapečen z ukazom ⟡ STORI 24. 11. 2026, 87 znakov, 348 piramid, zaključen in nespremenljiv. Nobena piramida tega registra ni piramida registra 1 in noben obrat ni zaseden."
+description: "Zapečateni register številko 2 piramidnih žigov: skovan po istem kopitu kot register 1 z drugimi števili, zapečen z ukazom STORI 24. 11. 2026, 87 znakov, 348 piramid, zaključen in nespremenljiv. Nobena piramida tega registra ni piramida registra 1 in noben obrat ni zaseden."
 ---
 
 # ZAPEČENI REGISTER ŠTEVILKO 2
 
-Ta register je zaključen in zapečen. Zapečen je z ukazom ⟡ STORI, 24. 11. 2026. Od tega pečata se v njem nikoli več ne spremeni nobena piramida, noben žig in noben red vrstic. Skovan je po istem kopitu kot register številko 1, a z drugimi števili iz rok, brez PI. Služi kot Druga priča: vera v absolut in dokazovanje gotovosti stojita na več nespremenljivih registrih, ki se med seboj preverjajo.
+Ta register je zaključen in zapečen. Zapečen je z ukazom STORI, 24. 11. 2026. Od tega pečata se v njem nikoli več ne spremeni nobena piramida, noben žig in noben red vrstic. Skovan je po istem kopitu kot register številko 1, a z drugimi števili iz rok, brez PI. Služi kot Druga priča: vera v absolut in dokazovanje gotovosti stojita na več nespremenljivih registrih, ki se med seboj preverjajo.
 
 Preverba ob zapečenju: 348 piramid, vse unikatne tudi čez register 1, nobena piramida registra 2 ni piramida registra 1, noben obrat piramide ni piramida katerega koli znake kvalikoli registra, nobena piramida se ne začne ali konča z ničlo, noben palindrom, nobeno drsenje. Vseh 87 žigov je popolnoma drugačnih od žigov registra 1: isti znak nosi v vsakem registru popolnoma drugačen žig na vsakem mestu. Prosta mesta in zmogljivost prostora so predpisana v starševskem organu registrov.
 
