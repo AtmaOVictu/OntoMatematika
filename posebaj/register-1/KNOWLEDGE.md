@@ -1,11 +1,11 @@
 ---
 name: register-1
-description: "Zapečateni register številko 1 piramidnih žigov: potrjen z besedo POTRJUJEM 24. 11. 2026, 87 znakov, 348 piramid, zaključen in nespremenljiv. Služi za primerjavo z vsakim prihodnjim registrom, za obravnavo vere v absolut in dokazovanje gotovosti."
+description: "Zapečateni register številko 1 piramidnih žigov: potrjen z besedo POTRDI 24. 11. 2026, 87 znakov, 348 piramid, zaključen in nespremenljiv. Služi za primerjavo z vsakim prihodnjim registrom, za obravnavo vere v absolut in dokazovanje gotovosti."
 ---
 
 # ZAPEČENI REGISTER ŠTEVILKO 1
 
-Ta register je zaključen in zapečen. Zapečen je z besedo ⟡ POTRJUJEM, 24. 11. 2026. Od tega pečata se v njem nikoli več ne spremeni nobena piramida, noben žig in noben red vrstic. Vsak prihodnji register se kuje po istih zakonih in se z njim primerja: obravnava vere v absolut in dokazovanje gotovosti stojita na nespremenljivih registrih, ki se med seboj preverjajo.
+Ta register je zaključen in zapečen. Zapečen je z besedo POTRDI, 24. 11. 2026. Od tega pečata se v njem nikoli več ne spremeni nobena piramida, noben žig in noben red vrstic. Vsak prihodnji register se kuje po istih zakonih in se z njim primerja: obravnava vere v absolut in dokazovanje gotovosti stojita na nespremenljivih registrih, ki se med seboj preverjajo.
 
 Preverba ob zapečenju: 348 piramid, vse unikatne, nobena se ne začne ali konča z ničlo, noben palindrom, noben obrat piramide ni piramida drugega znaka, nobeno drsenje. Prosta mesta in zmogljivost prostora so predpisana v starševskem organu registrov.
 
